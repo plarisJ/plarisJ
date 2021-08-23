@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @plarisJ
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Kotlin for Android
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning React JS
